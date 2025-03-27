@@ -1,4 +1,5 @@
-👋 Hi, I'm Apsara GC!
+👋 Hi, I'm Apsara GC
+
 💻 A final-year BSc(Hons) Computing student at Informatics College Pokhara, with a passion for software development and data science.
 
 🔧 Skills:
