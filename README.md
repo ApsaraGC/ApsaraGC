@@ -1,5 +1,29 @@
--  Hi, I’m Apsara GC, a final-year BIT (Hons) student passionate about software development
--  and data science. I enjoy working with Python, Django, Laravel, and exploring new technologies. Let's connect! 
+👋 Hi, I'm Apsara GC!
+💻 A final-year BSc(Hons) Computing student at Informatics College Pokhara, with a passion for software development and data science.
+
+🔧 Skills:
+
+-Full-stack web development with Laravel, Vue.js, and ASP.NET Core
+
+-Data manipulation and analysis using Python and pandas
+
+-Database management with MySQL and PostgreSQL
+
+-Experience in object-oriented programming (OOP) and web scraping
+
+🌱 Currently Learning:
+
+Building intuitive web applications.
+
+Enhancing my knowledge of APIs, RESTful services, and Laravel.
+
+🚀 Projects:
+
+Doctor Appointment System – A comprehensive system for managing doctor-patient interactions, including scheduling, rescheduling, and appointment management.
+
+Budget Tracker – A personal finance app to manage and track expenses with data visualization.
+
+Hanag’s Garment – A local garment store platform offering home delivery and advanced user functionalities like rating, review, and messaging between buyers and sellers.
 
 📫 How to reach me: apsaragc29@gmail.com
 
