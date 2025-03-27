@@ -2,6 +2,16 @@
 
 💻 A final-year BSc(Hons) Computing student at Informatics College Pokhara, with a passion for software development and data science.
 
+Interests & Hobbies:
+
+Traveling & Trekking – Exploring new places and experiencing different cultures.
+
+Portrait Art – Enjoying the creative side of life by capturing human expressions through art.
+
+Reading Novels – Getting lost in immersive stories and expanding my perspective through books.
+
+Problem-Solving & Learning – Constantly exploring new technologies and refining my skills in programming, data science, and software development.
+
 🔧 Skills:
 
 -Full-stack web development with Laravel, Vue.js, and ASP.NET Core
