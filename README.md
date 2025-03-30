@@ -39,7 +39,10 @@ Hanag’s Garment – A local garment store platform offering home delivery and 
 Developer Community:
 I'm excited to join the Developers' Community to collaborate, share ideas, and grow alongside fellow developers. Looking forward to learning from others, contributing to interesting projects, and enhancing my skillset!
 
-📫 How to reach me: apsaragc29@gmail.com
+📫 How to reach me: 
+Email:apsaragc29@gmail.com
+GitHub: github.com/apsara-gc
+LinkedIn: linkedin.com/in/apsara-gc
 
 
 <!---
