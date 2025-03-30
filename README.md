@@ -1,51 +1,34 @@
-👋 Hi, I'm Apsara GC
+👋 Hi, I’m Apsara GC
 
-I am a final-year BSc(Hons) Computing student at Informatics College Pokhara, passionate about software development and data science.
+---
 
-Interests & Hobbies:
+About Me  
+I am a final-year BSc(Hons) Computing student at Informatics College Pokhara, passionate about software development and data science. I enjoy exploring new technologies and constantly improving my programming skills.
 
-Traveling & Trekking – Exploring new places and experiencing different cultures.
+---
 
-Portrait Art – Enjoying the creative side of life by capturing human expressions through art.
+Interests and Hobbies
+- Web Development: I love building full-stack web applications and learning new frameworks.
+- Data Science: Exploring data through analysis and visualization, and applying machine learning techniques.
+- Traveling & Trekking: Exploring new places and experiencing different cultures.
+- Portrait Ar*: Capturing human expressions through creative artwork.
+- Reading Novels: Getting lost in immersive stories and expanding my perspective.
 
-Reading Novels – Getting lost in immersive stories and expanding my perspective through books.
+---
+Skills  
+- Web Development: Laravel, Vue.js, ASP.NET Core, HTML, CSS, JavaScript  
+- Data Science: Python, pandas, data manipulation and analysis  
+- Database Management: MySQL, PostgreSQL  
+- Version Control: Git, GitHub  
+- OOP: Object-oriented programming  
 
-Problem-Solving & Learning – Constantly exploring new technologies and refining my skills in programming, data science, and software development.
+---
+Why I Want to Join the Developers' Community  
+I am eager to connect with like-minded individuals, collaborate on exciting projects, and share knowledge. Being part of a developers' community will help me grow, learn from others, and contribute to open-source initiatives.
 
-🔧 Skills:
+---
 
--Full-stack web development with Laravel, Vue.js, and ASP.NET Core
+Contact Me  
+📫 How to reach me: apsaragc29@gmail.com  
 
--Data manipulation and analysis using Python and pandas
-
--Database management with MySQL and PostgreSQL
-
--Experience in object-oriented programming (OOP) and web scraping
-
-🌱 Currently Learning:
-
-Building intuitive web applications.
-
-Enhancing my knowledge of APIs, RESTful services, and Laravel.
-
-🚀 Projects:
-
-Doctor Appointment System – A comprehensive system for managing doctor-patient interactions, including scheduling, rescheduling, and appointment management.
-
-Budget Tracker – A personal finance app to manage and track expenses with data visualization.
-
-Hanag’s Garment – A local garment store platform offering home delivery and advanced user functionalities like rating, review, and messaging between buyers and sellers.
-
-Developer Community:
-I'm excited to join the Developers' Community to collaborate, share ideas, and grow alongside fellow developers. Looking forward to learning from others, contributing to interesting projects, and enhancing my skillset!
-
-📫 How to reach me: 
-Email:apsaragc29@gmail.com
-GitHub: github.com/apsara-gc
-LinkedIn: linkedin.com/in/apsara-gc
-
-
-<!---
-ApsaraGC/ApsaraGC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
