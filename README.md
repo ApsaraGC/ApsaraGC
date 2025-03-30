@@ -1,6 +1,6 @@
 👋 Hi, I'm Apsara GC
 
-💻 A final-year BSc(Hons) Computing student at Informatics College Pokhara, with a passion for software development and data science.
+I am a final-year BSc(Hons) Computing student at Informatics College Pokhara, passionate about software development and data science.
 
 Interests & Hobbies:
 
@@ -35,6 +35,9 @@ Doctor Appointment System – A comprehensive system for managing doctor-patient
 Budget Tracker – A personal finance app to manage and track expenses with data visualization.
 
 Hanag’s Garment – A local garment store platform offering home delivery and advanced user functionalities like rating, review, and messaging between buyers and sellers.
+
+Developer Community:
+I'm excited to join the Developers' Community to collaborate, share ideas, and grow alongside fellow developers. Looking forward to learning from others, contributing to interesting projects, and enhancing my skillset!
 
 📫 How to reach me: apsaragc29@gmail.com
 
