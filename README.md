@@ -11,7 +11,7 @@ Interests and Hobbies
 - Web Development: I love building full-stack web applications and learning new frameworks.
 - Data Science: Exploring data through analysis and visualization, and applying machine learning techniques.
 - Traveling & Trekking: Exploring new places and experiencing different cultures.
-- Portrait Ar*: Capturing human expressions through creative artwork.
+- Portrait Art: Capturing human expressions through creative artwork.
 - Reading Novels: Getting lost in immersive stories and expanding my perspective.
 
 ---
@@ -29,6 +29,8 @@ I am eager to connect with like-minded individuals, collaborate on exciting proj
 ---
 
 Contact Me  
-📫 How to reach me: apsaragc29@gmail.com  
+Email: apsaragc29@gmail.com
+GitHub: github.com/apsara-gc
+LinkedIn: linkedin.com/in/apsara-gc
 
 ---
