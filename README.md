@@ -22,9 +22,6 @@ Skills
 - Version Control: Git, GitHub  
 - OOP: Object-oriented programming  
 
----
-Why I Want to Join the Developers' Community  
-I am eager to connect with like-minded individuals, collaborate on exciting projects, and share knowledge. Being part of a developers' community will help me grow, learn from others, and contribute to open-source initiatives.
 
 ---
 
