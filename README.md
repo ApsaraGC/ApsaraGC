@@ -1,33 +1,32 @@
-👋 Hi, I’m Apsara GC
+# Hi, I’m Apsara GC 👋
+
+Welcome to my GitHub profile! I’m a BSc(Hons) Computing student passionate about **web development, backend programming, and data science**.
 
 ---
 
-About Me  
-I am a final-year BSc(Hons) Computing student at Informatics College Pokhara, passionate about software development and data science. I enjoy exploring new technologies and constantly improving my programming skills.
+## 💼 About Me
+- Full Stack Developer | QA & Backend Enthusiast  
+- Experienced in **Python, Laravel, Django, SQL, HTML, CSS, JavaScript**  
+- Interested in **problem-solving, learning new technologies, and building impactful projects**
 
 ---
 
-Interests and Hobbies
-- Web Development: I love building full-stack web applications and learning new frameworks.
-- Data Science: Exploring data through analysis and visualization, and applying machine learning techniques.
-- Traveling & Trekking: Exploring new places and experiencing different cultures.
-- Portrait Art: Capturing human expressions through creative artwork.
-- Reading Novels: Getting lost in immersive stories and expanding my perspective.
-
----
-Skills  
-- Web Development: Laravel, Vue.js, ASP.NET Core, HTML, CSS, JavaScript  
-- Data Science: Python, pandas, data manipulation and analysis  
-- Database Management: MySQL, PostgreSQL  
-- Version Control: Git, GitHub  
-- OOP: Object-oriented programming  
-
+## 🔗 Portfolio
+Check out my portfolio website: [Apsara GC Portfolio](https://apsaragc.github.io/Apsara-GC/)
 
 ---
 
-Contact Me  
-Email: apsaragc29@gmail.com
-GitHub: github.com/apsara-gc
-LinkedIn: linkedin.com/in/apsara-gc
+## 🛠 Skills
+- **Languages & Frameworks:** Python, PHP, Laravel, Django, JavaScript, HTML/CSS  
+- **Tools & Technologies:** Git, GitHub, MySQL, Swagger, Serilog  
+- **Data Science:** Pandas, NumPy, Web Scraping, Data Cleaning
 
 ---
+
+## 📫 Contact Me
+- Email: [apsaragc29@gmail.com](mailto:apsaragc29@gmail.com)  
+- LinkedIn: [linkedin.com/in/apsara-gc](https://www.linkedin.com/in/apsara-gc/)
+
+---
+
+Thanks for visiting my GitHub profile! 🚀
