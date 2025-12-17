@@ -1,32 +1,56 @@
-# Hi, I’m Apsara GC 👋
+# Hi, I’m Apsara GC 
 
-Welcome to my GitHub profile! I’m a BSc(Hons) Computing student passionate about **web development, backend programming, and data science**.
-
----
-
-## 💼 About Me
-- Full Stack Developer | QA & Backend Enthusiast  
-- Experienced in **Python, Laravel, Django, SQL, HTML, CSS, JavaScript**  
-- Interested in **problem-solving, learning new technologies, and building impactful projects**
+Welcome to my GitHub profile! I’m a BSc (Hons) Computing Graduate with a strong interest in web development, backend engineering, and data science. I enjoy building clean, scalable applications and continuously learning new technologies.
 
 ---
 
-## 🔗 Portfolio
-Check out my portfolio website: [Apsara GC Portfolio](https://apsaragc.github.io/Apsara-GC/)
+## About Me
+
+* **Full Stack Developer** with a focus on **Backend & QA**
+* Strong interest in **problem-solving and system design**
+* Passionate about learning new technologies and building **impactful, real-world projects**
 
 ---
 
-## 🛠 Skills
-- **Languages & Frameworks:** Python, PHP, Laravel, Django, JavaScript, HTML/CSS  
-- **Tools & Technologies:** Git, GitHub, MySQL, Swagger, Serilog  
-- **Data Science:** Pandas, NumPy, Web Scraping, Data Cleaning
+## Technical Skills
+
+### Languages & Frameworks
+
+* **Python**, **PHP**, **Java**
+* **Laravel**, **Spring Boot**
+* **JavaScript**, **HTML**, **CSS**
+
+###  Tools & Technologies
+
+* **Git & GitHub**
+* **MySQL,  Postgres, MongoDB**
+* **Swagger**, **Postman**
+* **Jira**
 
 ---
 
-## 📫 Contact Me
-- Email: [apsaragc29@gmail.com](mailto:apsaragc29@gmail.com)  
-- LinkedIn: [linkedin.com/in/apsara-gc](https://www.linkedin.com/in/apsara-gc/)
+##  Areas of Interest
+
+* Backend Development & REST APIs
+* Web Application Development
+* Data Science & Data Analysis
+* Software Quality Assurance (QA)
 
 ---
 
-Thanks for visiting my GitHub profile! 🚀
+## Portfolio
+
+Check out my portfolio website:**[Apsara GC Portfolio](https://apsaragc.github.io/Apsara-GC/)**
+
+---
+
+##  Contact Me
+
+* Email: **[apsaragc29@gmail.com](mailto:apsaragc29@gmail.com)**
+* LinkedIn: **[linkedin.com/in/apsara-gc](https://www.linkedin.com/in/apsara-gc/)**
+
+---
+
+Feel free to explore my repositories, and don’t hesitate to connect or collaborate!
+
+Thanks for visiting my GitHub profile 
